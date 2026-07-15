@@ -1,16 +1,83 @@
-# 💫 About Me:
-Victor Augusto<br>Tech enthusiast | Cloud | Automation<br><br>💻 Cloud Stack: Azure (Multi-certified), AWS, GCP<br>🛠️ Skills: IT Infrastructure, 3D Printing, Hardware Systems<br>📊 Interests: Data Engineering & AI Solutions<br>📍 Location: Brazil
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Hello,%20I'm%20Victor%20Augusto!&fontSize=50&fontAlignY=38&desc=Mechatronics%20Engineering%20Student%20%7C%20Cloud%20&%20IoT%20Enthusiast&descAlignY=55&descAlign=50" />
+</div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/victor-augusto-silverio" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:victor@victorsilverio.eng.br">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-silverio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=victor-silverio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 👨‍💻 About Me
+* 🎓 **Mechatronics & Robotics Engineering Student** at **UNIFEI** (Universidade Federal de Itajubá).
+* ⚙️ **Technician in Mechanics** by ETEC.
+* ☁️ Passionate about **Cloud Computing (AWS / Azure / GCP)**, **Embedded Systems (IoT)**, and **Data Science**.
+* 🚀 Building projects involving **ESP32, LoRaWAN, Raspberry Pi, and Computer Vision**.
+* 🌍 Based in Brazil 🇧🇷
 
 ---
-[![](https://visitcount.itsvg.in/api?id=victor-silverio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Tools
+
+**☁️ Cloud & DevOps**
+<br>
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**💻 Languages & Embedded Systems**
+<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+**📊 Data Science & AI**
+<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+
+---
+
+### 🏆 Certifications
+* **Microsoft:** Azure Data Fundamentals (DP-900) | Security, Compliance, and Identity Fundamentals (SC-900)
+* **AWS:** AWS Academy Graduate - Cloud Foundations
+* **Google Cloud:** 10+ Badges on Google Cloud Skills Boost (Cloud Computing, AI, Data Preparation)
+* **SENAI (17+ Certifications):** Python for Data Science, C# Fundamentals, Cloud AI (Google/Microsoft), Power Platform.
+
+---
+
+### 🚀 Highlighted Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚗 **[Cancela Estacionamento](https://github.com/victor-silverio/Cancela_Estacionamento)** | Automated vehicle entry management with anti-fraud logic and NTP real-time ticket emission. | `C++`, `ESP32` |
+| 📡 **[ECOP11A-LoRaWAN](https://github.com/victor-silverio/ECOP11A-LoRaWAN)** | Emulation of LoRaWAN networks (End-device and Gateway) with AES 128 encryption. | `C`, `ESP-IDF`, `LoRa` |
+| 📶 **[Rasp-Attend](https://github.com/victor-silverio/ECOP11A_Rasp-Attend)** | Innovative attendance tracking system using Wi-Fi MAC probing on Raspberry Pi. | `C`, `Bash`, `Linux` |
+| 🤖 **[Line Follower Robot](https://github.com/victor-silverio/Line_Follower_Robot_Arduino)** | Mobile robotics project with dynamic self-calibration using EEPROM and Adafruit. | `C++`, `Arduino` |
+| 📈 **[Data Science Portfolio](https://github.com/victor-silverio/Python_Senai390)** | Exploratory Data Analysis, cleaning, and mathematical programming from SENAI courses. | `Python`, `Pandas` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-silverio&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00599C&icon_color=00599C" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-silverio&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00599C" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=victor-silverio&icon=0&color=0" alt="Profile Views">
+</div>
