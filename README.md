@@ -9,6 +9,9 @@
   <a href="mailto:victor@victorsilverio.eng.br">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://victorsilverio.eng.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-00599C?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 <br>
@@ -18,6 +21,7 @@
 * ⚙️ **Technician in Mechanics** by ETEC.
 * ☁️ Passionate about **Cloud Computing (AWS / Azure / GCP)**, **Embedded Systems (IoT)**, and **Data Science**.
 * 🚀 Building projects involving **ESP32, LoRaWAN, Raspberry Pi, and Computer Vision**.
+* 🌐 **Check out my Portfolio:** [victorsilverio.eng.br](https://victorsilverio.eng.br)
 * 🌍 Based in Brazil 🇧🇷
 
 ---
@@ -68,16 +72,4 @@
 | 🤖 **[Line Follower Robot](https://github.com/victor-silverio/Line_Follower_Robot_Arduino)** | Mobile robotics project with dynamic self-calibration using EEPROM and Adafruit. | `C++`, `Arduino` |
 | 📈 **[Data Science Portfolio](https://github.com/victor-silverio/Python_Senai390)** | Exploratory Data Analysis, cleaning, and mathematical programming from SENAI courses. | `Python`, `Pandas` |
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-silverio&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00599C&icon_color=00599C" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-silverio&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00599C" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=victor-silverio&icon=0&color=0" alt="Profile Views">
-</div>
