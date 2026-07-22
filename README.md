@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/victor-augusto-silverio" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-aquino-silverio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:victor@victorsilverio.eng.br">
